@@ -8,3 +8,5 @@ Divergence Of Darkness is a Single player game (single player), 2d pixelated sha
 # Tools Used
 ![ge](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/fda69fbf-38f8-4626-8227-13d7af1606fd)
 ![tiled](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/1307952a-6054-4599-9ab5-03ac24bf5841)
+# Gameplay
+![game-vid (online-video-cutter com)](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/e863ce22-babe-466a-928b-71e6ecba6577)
