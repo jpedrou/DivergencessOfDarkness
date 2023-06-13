@@ -14,7 +14,7 @@ Divergence Of Darkness is a Single player game, 2d pixelated, shadow style that 
 - 1° Download the game project and extract it <br/>
 - 2° Install the game engine GDevelop 5 <br/>
   link: https://gdevelop.io/download
-- 3° Open the engine and follow the steps bellow. **Depeding on the version the interface will look a little different**
+- 3° Open the engine and follow the steps bellow. **Depending on the version, the interface will look a little different**
   - 1° In the main page go to "Build"
     ![tut](https://github.com/jpedrou/DigitalGameProject/assets/127536464/6aadae8d-179a-43fd-adf9-49370738d4a3)
   - 2° After click in "Build" go to "Open a Project", go to the project paste, open a json archive called "game" 
