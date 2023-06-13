@@ -1,4 +1,4 @@
-![menuu](https://github.com/jpedrou/DigitalGameProject/assets/127536464/9dbf3090-80c3-4944-ae26-c4f919aa1951)
+![menu](https://github.com/jpedrou/DigitalGameProject/assets/127536464/2343c9d9-4191-4cab-9481-82ec2ca0c33d)
 # Creators
 - João Pedro Nunes Oliveira
 - Luiz Felipe Alves De Oliveira
