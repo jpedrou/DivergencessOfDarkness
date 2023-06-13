@@ -9,7 +9,7 @@ Divergence Of Darkness is a Single player game, 2d pixelated, shadow style that 
 ![g](https://github.com/jpedrou/DigitalGameProject/assets/127536464/a0dfdd86-6093-4c0e-92c7-7f80e05258a4)
 ![t](https://github.com/jpedrou/DigitalGameProject/assets/127536464/133447b5-7eba-4c66-83c5-2eaa85370dcc)
 # Gameplay
-![game-vid (online-video-cutter com)](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/e863ce22-babe-466a-928b-71e6ecba6577)
+![game-video (online-video-cutter com) (1)](https://github.com/jpedrou/DigitalGameProject/assets/127536464/e457412e-c4b6-42a6-b0f2-1156954bfbdb)
 # How to Run The Game
 - 1° Download the game project and extract it <br/>
 - 2° Install the game engine GDevelop 5 <br/>
