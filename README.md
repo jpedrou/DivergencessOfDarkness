@@ -6,8 +6,8 @@
 # About The Game
 Divergence Of Darkness is a Single player game, 2d pixelated, shadow style that has an environment full of mysteries. The forest where the game takes place is full of evil and dark beings. However, there is also a samurai that's ready to bring the light back to the place. The game was developed from the perspective of the samurai, the liberator of the forest. He will need to face beings he has never seen before in order to bring peace to the place again. To achieve this feat, the main character must, together with his sword and pistol, defeat all the enemies he finds along the way, so that there are no traces of evil left. During the game, the player's opponents will have different distributions across the map, making the game not boring. Of course, the enemies are not your only obstacles, each new level, a new surprise, a new environment. The warrior will have to use all his experience and intelligence to move forward. Each level has its own characteristics. No level is the same as the other, all have their own design. The game was tested on the Windows operating system, but the engine used makes it possible to publish on different platforms.
 # Tools Used
-![ge](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/fda69fbf-38f8-4626-8227-13d7af1606fd)
-![tiled](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/1307952a-6054-4599-9ab5-03ac24bf5841)
+![g](https://github.com/jpedrou/DigitalGameProject/assets/127536464/a0dfdd86-6093-4c0e-92c7-7f80e05258a4)
+![t](https://github.com/jpedrou/DigitalGameProject/assets/127536464/133447b5-7eba-4c66-83c5-2eaa85370dcc)
 # Gameplay
 ![game-vid (online-video-cutter com)](https://github.com/jpedrou/DigitalGamesProject/assets/127536464/e863ce22-babe-466a-928b-71e6ecba6577)
 # How to Run The Game
