@@ -14273,7 +14273,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.35036871990292534,
+        "zoomFactor": 0.4135619880424804,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14362,8 +14362,8 @@
           "name": "ninjaPng",
           "persistentUuid": "6d514c10-9dea-4d34-915c-85250e2dc748",
           "width": 648,
-          "x": 1004,
-          "y": 107,
+          "x": 984,
+          "y": 103,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -14700,8 +14700,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Menu",
-          "comment2": ""
+          "comment": "Menu"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -14825,8 +14824,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Background",
-          "comment2": ""
+          "comment": "Background"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -14854,8 +14852,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -14890,9 +14887,14 @@
           "ambientLightColorB": 9131432,
           "ambientLightColorG": 150995054,
           "ambientLightColorR": 1869182049,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -15420,8 +15422,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -15456,9 +15457,14 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -15514,7 +15520,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.4790395861758365,
+        "zoomFactor": 2.0606791352696585,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -17449,8 +17455,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Camera",
-          "comment2": ""
+          "comment": "Camera"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17590,8 +17595,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17630,8 +17634,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Portal",
-          "comment2": ""
+          "comment": "Portal"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17672,8 +17675,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17741,8 +17743,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Get Damage",
-          "comment2": ""
+          "comment": "Get Damage"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -17844,9 +17845,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -17866,9 +17872,14 @@
           "ambientLightColorB": 10303224,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 21153032,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -17913,7 +17924,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9934433498260186,
+        "zoomFactor": 3.6212820570306827,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -18269,9 +18280,9 @@
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "9dcc1175-78a2-4848-937c-5e41f36fda05",
-          "width": 706,
-          "x": 1214,
-          "y": 266,
+          "width": 705,
+          "x": 1215,
+          "y": 265,
           "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
@@ -19311,8 +19322,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player Dialogue",
-          "comment2": ""
+          "comment": "Player Dialogue"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -19390,8 +19400,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -19456,8 +19465,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -19521,9 +19529,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -19543,9 +19556,14 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "Health Bar",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -19554,9 +19572,14 @@
           "ambientLightColorB": 9739192,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 17932440,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -19601,7 +19624,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.405751890594404,
+        "zoomFactor": 4.418559405855644,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -19689,8 +19712,8 @@
           "layer": "",
           "name": "FallLimiter",
           "persistentUuid": "66381b79-593e-43f0-893d-a85d93063f02",
-          "width": 287,
-          "x": 338,
+          "width": 291,
+          "x": 334,
           "y": 515,
           "zOrder": 10,
           "numberProperties": [],
@@ -20038,6 +20061,36 @@
           "x": 919,
           "y": 307,
           "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "e08fd061-f445-46f7-bd65-5ff81b03e5f1",
+          "width": 7,
+          "x": 330,
+          "y": 276,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 207,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "831214f6-6469-43af-9b80-7863ea560543",
+          "width": 5,
+          "x": 330,
+          "y": 308,
+          "zOrder": 53,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20869,8 +20922,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -20909,8 +20961,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -20974,9 +21025,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -20996,9 +21052,14 @@
           "ambientLightColorB": 10303224,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 21153032,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -21043,7 +21104,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.057490088463416,
+        "zoomFactor": 0.5834740740772297,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -21277,12 +21338,12 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 2,
+          "height": 3,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "12dc181d-618d-4cae-9d25-efc36dd409f6",
-          "width": 146,
-          "x": 674,
+          "width": 147,
+          "x": 673,
           "y": 237,
           "zOrder": 55,
           "numberProperties": [],
@@ -21337,7 +21398,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 2,
+          "height": 3,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "2d7faadf-c5bb-48d3-8c86-fcdcaf48ca95",
@@ -21352,7 +21413,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 2,
+          "height": 3,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "8338c775-f866-44ab-a5b2-28bc5e1aa0ef",
@@ -21412,13 +21473,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 2,
+          "height": 11,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "fcda7c73-d184-49fb-9d1d-6de5136cd6e6",
-          "width": 35,
-          "x": 1506,
-          "y": 316,
+          "width": 36,
+          "x": 1505,
+          "y": 309,
           "zOrder": 55,
           "numberProperties": [],
           "stringProperties": [],
@@ -21645,6 +21706,36 @@
           "x": 0,
           "y": 301,
           "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "5502bb1d-5cde-44a2-a8fb-214ce9459799",
+          "width": 2,
+          "x": 1025,
+          "y": 318,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 18,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "c42f6d63-2887-4671-8695-4210cd677d06",
+          "width": 1,
+          "x": 1537,
+          "y": 334,
+          "zOrder": 55,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22476,8 +22567,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -22516,8 +22606,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -22581,9 +22670,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -22603,9 +22697,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -22650,7 +22749,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.212164197217417,
+        "zoomFactor": 0.6897782140104788,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -25863,8 +25962,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player Dialogue",
-          "comment2": ""
+          "comment": "Player Dialogue"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -26008,8 +26106,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -26048,8 +26145,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -26113,9 +26209,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -26135,9 +26236,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -26182,7 +26288,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44819780454105734,
+        "zoomFactor": 2.2762478393838275,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -26656,13 +26762,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
+          "height": 18,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "48d879c8-75ad-49a7-8443-365152a0e4fc",
-          "width": 4,
+          "width": 8,
           "x": 542,
-          "y": -86,
+          "y": -88,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -26716,13 +26822,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
+          "height": 18,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "1aab1c2c-ed5b-4ec5-b48f-8c4f939b0f5e",
-          "width": 4,
-          "x": 555,
-          "y": -87,
+          "width": 9,
+          "x": 550,
+          "y": -88,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -26731,13 +26837,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
+          "height": 18,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "32a7f8f8-0777-418b-8a14-66731b49c3df",
-          "width": 4,
-          "x": 555,
-          "y": -119,
+          "width": 8,
+          "x": 551,
+          "y": -120,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -26746,13 +26852,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 16,
+          "height": 18,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "dc000b01-17da-490d-a89b-918434c6b3d5",
-          "width": 4,
+          "width": 8,
           "x": 543,
-          "y": -119,
+          "y": -120,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -26911,13 +27017,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 216,
+          "height": 215,
           "layer": "",
           "name": "Platform_Repair",
           "persistentUuid": "cc644c04-0589-4f01-8237-949a28666abc",
           "width": 3,
           "x": 1422,
-          "y": -8,
+          "y": -7,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -27324,6 +27430,51 @@
           "x": 0,
           "y": -298,
           "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 16,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "be7d7fef-7797-44b4-94fd-ef25fc9ec296",
+          "width": 17,
+          "x": 94,
+          "y": -38,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 17,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "194fbded-52cf-4526-addc-ba132de1021b",
+          "width": 16,
+          "x": 271,
+          "y": -119,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 17,
+          "layer": "",
+          "name": "Platform_Repair",
+          "persistentUuid": "3a5b56c3-ceec-4a64-b080-846ae7562387",
+          "width": 17,
+          "x": 94,
+          "y": 25,
+          "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -29575,8 +29726,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -29615,8 +29765,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -29680,9 +29829,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -29702,9 +29856,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -29749,7 +29908,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4789341884535434,
+        "zoomFactor": 0.6244537826600236,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -33007,8 +33166,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -33047,8 +33205,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -33112,9 +33269,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -33134,9 +33296,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -33181,7 +33348,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.0269425874981553,
+        "zoomFactor": 0.7130377630690744,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -36004,8 +36171,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -36044,8 +36210,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -36109,9 +36274,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -36131,9 +36301,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -36178,7 +36353,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7130377630690733,
+        "zoomFactor": 0.5653158055126576,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -37885,8 +38060,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player Dialogue",
-          "comment2": ""
+          "comment": "Player Dialogue"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -37969,8 +38143,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -38009,8 +38182,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -38074,9 +38246,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -38096,9 +38273,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -40239,8 +40421,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -40279,8 +40460,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -40344,9 +40524,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -40366,9 +40551,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -42212,8 +42402,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -42252,8 +42441,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Portal",
-          "comment2": ""
+          "comment": "Portal"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -42294,8 +42482,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -42359,9 +42546,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -42381,9 +42573,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -45199,8 +45396,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -45239,8 +45435,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -45304,9 +45499,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -45326,9 +45526,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -45373,7 +45578,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3362978603097294,
+        "zoomFactor": 0.6315128591296918,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -48275,8 +48480,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player Dialogue",
-          "comment2": ""
+          "comment": "Player Dialogue"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -48425,8 +48629,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -48465,8 +48668,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delet Shoot",
-          "comment2": ""
+          "comment": "Delet Shoot"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -48530,9 +48732,14 @@
           "ambientLightColorB": 0,
           "ambientLightColorG": 8071752,
           "ambientLightColorR": 16,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -48552,9 +48759,14 @@
           "ambientLightColorB": 150995058,
           "ambientLightColorG": 6069792,
           "ambientLightColorR": 19902960,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "GUI",
+          "renderingType": "",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -49139,8 +49351,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Music",
-          "comment2": ""
+          "comment": "Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -49175,9 +49386,14 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -49655,8 +49871,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Add Force to the Text",
-          "comment2": ""
+          "comment": "Add Force to the Text"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -49718,8 +49933,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Hide Objects",
-          "comment2": ""
+          "comment": "Hide Objects"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -49777,8 +49991,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Show Objects",
-          "comment2": ""
+          "comment": "Show Objects"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -49856,8 +50069,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Stop the Text",
-          "comment2": ""
+          "comment": "Stop the Text"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -49960,9 +50172,14 @@
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
           "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -50324,8 +50541,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Menu",
-          "comment2": ""
+          "comment": "Menu"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -50449,8 +50665,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Background",
-          "comment2": ""
+          "comment": "Background"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -50501,9 +50716,14 @@
           "ambientLightColorB": 9131432,
           "ambientLightColorG": 150995054,
           "ambientLightColorR": 1869182049,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 0.1,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
+          "isLocked": false,
           "name": "",
+          "renderingType": "",
           "visibility": true,
           "cameras": [
             {
@@ -50556,8 +50776,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "MOVIMENTS",
-          "comment2": ""
+          "comment": "MOVIMENTS"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -50843,8 +51062,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Delete Level Sprites",
-          "comment2": ""
+          "comment": "Delete Level Sprites"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -50987,8 +51205,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Attack",
-          "comment2": ""
+          "comment": "Attack"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -51383,51 +51600,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::IsJumping"
-              },
-              "parameters": [
-                "Player",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Player",
-                    "level1Col",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Player",
-                    "\"Iddle\""
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -51437,8 +51609,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Attack Was Finished",
-          "comment2": ""
+          "comment": "Attack Was Finished"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -51799,8 +51970,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Shooting",
-          "comment2": ""
+          "comment": "Shooting"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -51887,6 +52057,12 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -51955,15 +52131,6 @@
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimationName"
-                      },
-                      "parameters": [
-                        "Player",
-                        "\"Shooting\""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "AnimationEnded2"
@@ -52045,6 +52212,12 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
             }
           ],
           "actions": [
@@ -52113,15 +52286,6 @@
                 {
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimationName"
-                      },
-                      "parameters": [
-                        "Player",
-                        "\"Shooting\""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "AnimationEnded2"
@@ -52374,8 +52538,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Health Bar",
-          "comment2": ""
+          "comment": "Health Bar"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -52431,8 +52594,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Player's Brink",
-          "comment2": ""
+          "comment": "Player's Brink"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -52570,8 +52732,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Lerp",
-          "comment2": ""
+          "comment": "Lerp"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -52613,8 +52774,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Parallax",
-          "comment2": ""
+          "comment": "Parallax"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -52680,8 +52840,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Hide Objects",
-          "comment2": ""
+          "comment": "Hide Objects"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -52714,8 +52873,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Pick a Fruit\n",
-          "comment2": ""
+          "comment": "Pick a Fruit\n"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -53074,8 +53232,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Walking",
-              "comment2": ""
+              "comment": "Walking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53141,8 +53298,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Turning",
-              "comment2": ""
+              "comment": "Turning"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53266,8 +53422,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "PlayerCheck",
-              "comment2": ""
+              "comment": "PlayerCheck"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53366,8 +53521,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Attacking",
-              "comment2": ""
+              "comment": "Attacking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53515,8 +53669,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Walking",
-              "comment2": ""
+              "comment": "Walking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53582,8 +53735,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Turning",
-              "comment2": ""
+              "comment": "Turning"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53707,8 +53859,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "PlayerCheck",
-              "comment2": ""
+              "comment": "PlayerCheck"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53807,8 +53958,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Attacking",
-              "comment2": ""
+              "comment": "Attacking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53861,8 +54011,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Bat's Death",
-              "comment2": ""
+              "comment": "Bat's Death"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -53962,8 +54111,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Player Interaction",
-              "comment2": ""
+              "comment": "Player Interaction"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54230,8 +54378,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Shooting",
-              "comment2": ""
+              "comment": "Shooting"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54438,7 +54585,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "BossFight - Forest Guardian",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -54509,8 +54655,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Walking",
-              "comment2": ""
+              "comment": "Walking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54576,8 +54721,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Turning",
-              "comment2": ""
+              "comment": "Turning"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54701,8 +54845,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "PlayerCheck",
-              "comment2": ""
+              "comment": "PlayerCheck"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54801,8 +54944,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Attacking",
-              "comment2": ""
+              "comment": "Attacking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54855,8 +54997,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Health Bar",
-              "comment2": ""
+              "comment": "Health Bar"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54884,8 +55025,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Enemy's Dammage",
-              "comment2": ""
+              "comment": "Enemy's Dammage"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -54990,8 +55130,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Player's Dammage",
-              "comment2": ""
+              "comment": "Player's Dammage"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -55214,8 +55353,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Shooting",
-              "comment2": ""
+              "comment": "Shooting"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -55255,6 +55393,15 @@
                     "0.5",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Shoot_2",
+                    ""
+                  ]
                 }
               ]
             },
@@ -55290,6 +55437,15 @@
                     "assets\\Sounds\\Hit.mp3",
                     "",
                     "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Shoot_2",
                     ""
                   ]
                 }
@@ -55333,6 +55489,15 @@
                     "0.5",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Shoot",
+                    ""
+                  ]
                 }
               ]
             },
@@ -55368,6 +55533,15 @@
                     "assets\\Sounds\\Hit.mp3",
                     "",
                     "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Shoot",
                     ""
                   ]
                 }
@@ -55383,8 +55557,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "PlayerCheck",
-              "comment2": ""
+              "comment": "PlayerCheck"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -55537,8 +55710,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Attacking",
-              "comment2": ""
+              "comment": "Attacking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -55810,8 +55982,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Walking",
-              "comment2": ""
+              "comment": "Walking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -55877,8 +56048,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Turning",
-              "comment2": ""
+              "comment": "Turning"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56002,8 +56172,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "PlayerCheck",
-              "comment2": ""
+              "comment": "PlayerCheck"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56102,8 +56271,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Attacking",
-              "comment2": ""
+              "comment": "Attacking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56156,8 +56324,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Health Bar",
-              "comment2": ""
+              "comment": "Health Bar"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56185,8 +56352,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Enemy's Dammage",
-              "comment2": ""
+              "comment": "Enemy's Dammage"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56291,8 +56457,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Player's Dammage",
-              "comment2": ""
+              "comment": "Player's Dammage"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56515,8 +56680,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Shooting",
-              "comment2": ""
+              "comment": "Shooting"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56549,7 +56713,7 @@
                     "Undead",
                     "Health",
                     "-",
-                    "0.8"
+                    "0.4"
                   ]
                 },
                 {
@@ -56561,6 +56725,14 @@
                     "Flash",
                     "0.5",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.01"
                   ]
                 },
                 {
@@ -56611,6 +56783,14 @@
                 },
                 {
                   "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.01"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Delete"
                   },
                   "parameters": [
@@ -56651,7 +56831,7 @@
                     "Undead",
                     "Health",
                     "-",
-                    "0.8"
+                    "0.4"
                   ]
                 },
                 {
@@ -56663,6 +56843,14 @@
                     "Flash",
                     "0.5",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.01"
                   ]
                 },
                 {
@@ -56709,6 +56897,14 @@
                     "",
                     "",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.01"
                   ]
                 },
                 {
@@ -56732,8 +56928,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "PlayerCheck",
-              "comment2": ""
+              "comment": "PlayerCheck"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56886,8 +57081,7 @@
                 "textG": 0,
                 "textR": 0
               },
-              "comment": "Attacking",
-              "comment2": ""
+              "comment": "Attacking"
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -56974,8 +57168,7 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Standard Music",
-          "comment2": ""
+          "comment": "Standard Music"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -57103,8 +57296,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Evaluate the center of movement from the object position and properties.",
-                  "comment2": ""
+                  "comment": "Evaluate the center of movement from the object position and properties."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -57251,8 +57443,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Update the center when the object is moved outside of the behavior.",
-                  "comment2": ""
+                  "comment": "Update the center when the object is moved outside of the behavior."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -57292,8 +57483,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Place the object according to the movement angle.",
-                  "comment2": ""
+                  "comment": "Place the object according to the movement angle."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -57387,8 +57577,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Save the position to detect when the object is moved outside of the behavior.",
-                  "comment2": ""
+                  "comment": "Save the position to detect when the object is moved outside of the behavior."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -57450,8 +57639,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Update the movement angle for the next frame.",
-                  "comment2": ""
+                  "comment": "Update the movement angle for the next frame."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -59039,8 +59227,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Initiate and attach properties as objects variables",
-                  "comment2": ""
+                  "comment": "Initiate and attach properties as objects variables"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -59106,8 +59293,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Update boids position every frame",
-                  "comment2": ""
+                  "comment": "Update boids position every frame"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -59480,8 +59666,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Evaluate at which distance the object will go past a location if it were to continue in its current direction.\n\nspeedUnitX = velocityX / speed\nspeedUnitY = velocityY / speed\n\ndeltaX = centerX - object.CenterX\ndeltaY = centerY - object.CenterY\n\nnormalX = -deltaY;\nnormalY = deltaX;\n\ntrajectoryDistance = speedUnitX * normalX + speedUnitY * normalY",
-                  "comment2": ""
+                  "comment": "Evaluate at which distance the object will go past a location if it were to continue in its current direction.\n\nspeedUnitX = velocityX / speed\nspeedUnitY = velocityY / speed\n\ndeltaX = centerX - object.CenterX\ndeltaY = centerY - object.CenterY\n\nnormalX = -deltaY;\nnormalY = deltaX;\n\ntrajectoryDistance = speedUnitX * normalX + speedUnitY * normalY"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -59510,8 +59695,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "If this distance is smaller than the specified radius, the Boid must try turn in the right direction to avoid the area.",
-                  "comment2": ""
+                  "comment": "If this distance is smaller than the specified radius, the Boid must try turn in the right direction to avoid the area."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -59551,8 +59735,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "(normalX ; normalY)",
-                      "comment2": ""
+                      "comment": "(normalX ; normalY)"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -59595,8 +59778,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "(-normalX ; -normalY)",
-                      "comment2": ""
+                      "comment": "(-normalX ; -normalY)"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -60865,8 +61047,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "Health",
-                          "comment2": ""
+                          "comment": "Health"
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -60929,8 +61110,7 @@
                                 "textG": 0,
                                 "textR": 0
                               },
-                              "comment": "Correct any values above maximum limits",
-                              "comment2": ""
+                              "comment": "Correct any values above maximum limits"
                             },
                             {
                               "type": "BuiltinCommonInstructions::Standard",
@@ -61045,8 +61225,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "Shield",
-                          "comment2": ""
+                          "comment": "Shield"
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -61142,8 +61321,7 @@
                                 "textG": 0,
                                 "textR": 0
                               },
-                              "comment": "Correct any values above maximum limits",
-                              "comment2": ""
+                              "comment": "Correct any values above maximum limits"
                             },
                             {
                               "type": "BuiltinCommonInstructions::Standard",
@@ -61300,8 +61478,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "Only consider incoming damage when damage cooldown is not active",
-                      "comment2": ""
+                      "comment": "Only consider incoming damage when damage cooldown is not active"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -61351,8 +61528,7 @@
                                 "textG": 0,
                                 "textR": 0
                               },
-                              "comment": "No damage will be applied when dodged",
-                              "comment2": ""
+                              "comment": "No damage will be applied when dodged"
                             },
                             {
                               "type": "BuiltinCommonInstructions::Standard",
@@ -61534,8 +61710,7 @@
                                 "textG": 0,
                                 "textR": 0
                               },
-                              "comment": "If shield is active, damage the shield first",
-                              "comment2": ""
+                              "comment": "If shield is active, damage the shield first"
                             },
                             {
                               "type": "BuiltinCommonInstructions::Standard",
@@ -61603,8 +61778,7 @@
                                     "textG": 0,
                                     "textR": 0
                                   },
-                                  "comment": "If damage is less than shield, subtract damage from shield.",
-                                  "comment2": ""
+                                  "comment": "If damage is less than shield, subtract damage from shield."
                                 },
                                 {
                                   "type": "BuiltinCommonInstructions::Standard",
@@ -61667,8 +61841,7 @@
                                     "textG": 0,
                                     "textR": 0
                                   },
-                                  "comment": "If damage is greater than shield, conditionally apply excess damage based on property",
-                                  "comment2": ""
+                                  "comment": "If damage is greater than shield, conditionally apply excess damage based on property"
                                 },
                                 {
                                   "type": "BuiltinCommonInstructions::Standard",
@@ -61747,8 +61920,7 @@
                                         "textG": 0,
                                         "textR": 0
                                       },
-                                      "comment": "Apply excess damage only if shield does not block excess damage",
-                                      "comment2": ""
+                                      "comment": "Apply excess damage only if shield does not block excess damage"
                                     },
                                     {
                                       "type": "BuiltinCommonInstructions::Standard",
@@ -61982,8 +62154,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "If MaxHealth is set, prevent health from going above it",
-                  "comment2": ""
+                  "comment": "If MaxHealth is set, prevent health from going above it"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -62109,8 +62280,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "If Max Health is not set, do not enforce Max Health",
-                      "comment2": ""
+                      "comment": "If Max Health is not set, do not enforce Max Health"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -62151,8 +62321,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "If Max Health is set and Overhealing is not allowed",
-                      "comment2": ""
+                      "comment": "If Max Health is set and Overhealing is not allowed"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -62203,8 +62372,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "Perform heal",
-                      "comment2": ""
+                      "comment": "Perform heal"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -62233,8 +62401,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "Update healing trigger",
-                      "comment2": ""
+                      "comment": "Update healing trigger"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -62351,8 +62518,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Make sure Current Health does not exceed new Max Health",
-                  "comment2": ""
+                  "comment": "Make sure Current Health does not exceed new Max Health"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -63486,8 +63652,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Mark that the object was hit at least once (used for initial state of damage cooldown)",
-                  "comment2": ""
+                  "comment": "Mark that the object was hit at least once (used for initial state of damage cooldown)"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -63568,8 +63733,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "This condition is used to prevent \"damage cooldown\" from being active when the game starts.",
-                  "comment2": ""
+                  "comment": "This condition is used to prevent \"damage cooldown\" from being active when the game starts."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -65135,8 +65299,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "To be considered \"active\", a shield must have positive points AND not exceed duration",
-                  "comment2": ""
+                  "comment": "To be considered \"active\", a shield must have positive points AND not exceed duration"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -65165,8 +65328,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "Don't check the timer when duration is zero (or negative)",
-                      "comment2": ""
+                      "comment": "Don't check the timer when duration is zero (or negative)"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -66217,8 +66379,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "The \"Validated\" state only last one frame.",
-                      "comment2": ""
+                      "comment": "The \"Validated\" state only last one frame."
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -66268,8 +66429,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "Make sure the cursor position is only checked once per frame.",
-                          "comment2": ""
+                          "comment": "Make sure the cursor position is only checked once per frame."
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -66333,8 +66493,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "Touches are always pressed, so ShouldCheckHovering doesn't matter.",
-                          "comment2": ""
+                          "comment": "Touches are always pressed, so ShouldCheckHovering doesn't matter."
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -67388,8 +67547,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Create one background instance for of each state.\nOnly the instance for the current state is shown.",
-                  "comment2": ""
+                  "comment": "Create one background instance for of each state.\nOnly the instance for the current state is shown."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -67469,8 +67627,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "Place the label over the backgrounds.",
-                  "comment2": ""
+                  "comment": "Place the label over the backgrounds."
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -67601,8 +67758,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "Show the right background accordingly to the new state.",
-                      "comment2": ""
+                      "comment": "Show the right background accordingly to the new state."
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -67967,8 +68123,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "Children instances must be resized when the button size change:\n- backgrounds for each state are resized to take the full dimensions of the button\n- the label is put back at the center of the button\n\nThe scale is set back to 1 because it means that the parent instance has the same dimensions as the union of its children instances.",
-                      "comment2": ""
+                      "comment": "Children instances must be resized when the button size change:\n- backgrounds for each state are resized to take the full dimensions of the button\n- the label is put back at the center of the button\n\nThe scale is set back to 1 because it means that the parent instance has the same dimensions as the union of its children instances."
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -68886,8 +69041,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "vertical mode",
-                  "comment2": ""
+                  "comment": "vertical mode"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -68914,8 +69068,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "initialize",
-                      "comment2": ""
+                      "comment": "initialize"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -68974,8 +69127,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "distance has been reached, flip it",
-                          "comment2": ""
+                          "comment": "distance has been reached, flip it"
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -69108,8 +69260,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "max time has been reached, flip it",
-                          "comment2": ""
+                          "comment": "max time has been reached, flip it"
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -69347,8 +69498,7 @@
                     "textG": 0,
                     "textR": 0
                   },
-                  "comment": "horizontal mode",
-                  "comment2": ""
+                  "comment": "horizontal mode"
                 },
                 {
                   "type": "BuiltinCommonInstructions::Standard",
@@ -69376,8 +69526,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "initialize",
-                      "comment2": ""
+                      "comment": "initialize"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
@@ -69437,8 +69586,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "distance has been reached, flip it",
-                          "comment2": ""
+                          "comment": "distance has been reached, flip it"
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -69572,8 +69720,7 @@
                             "textG": 0,
                             "textR": 0
                           },
-                          "comment": "max time has been reached, flip it",
-                          "comment2": ""
+                          "comment": "max time has been reached, flip it"
                         },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -69821,8 +69968,7 @@
                         "textG": 0,
                         "textR": 0
                       },
-                      "comment": "store current elapsed time (to make sure time has passed)",
-                      "comment2": ""
+                      "comment": "store current elapsed time (to make sure time has passed)"
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
