@@ -1,8 +1,8 @@
 ![menu](https://github.com/jpedrou/DigitalGameProject/assets/127536464/2343c9d9-4191-4cab-9481-82ec2ca0c33d)
 # Creators
-- João Pedro Nunes Oliveira
-- Luiz Felipe Alves De Oliveira
-- Bryan Theodoro Do Bem
+- [@jpedrou](https://github.com/jpedrou)
+- [@Luiz116](https://github.com/Luiz116)
+- [@bryanthebem](https://github.com/bryanthebem)
 # About The Game
 Divergencess Of Darkness is a Single player game, 2d pixelated, shadow style that has an environment full of mysteries. The forest where the game takes place is full of evil and dark beings. However, there is also a samurai that's ready to bring the light back to the place. The game was developed from the perspective of the samurai, the liberator of the forest. He will need to face beings he has never seen before in order to bring peace to the place again. To achieve this feat, the main character must, together with his sword and pistol, defeat all the enemies he finds along the way, so that there are no traces of evil left. During the game, the player's opponents will have different distributions across the map, making the game not boring. Of course, the enemies are not your only obstacles, each new level, a new surprise, a new environment. The warrior will have to use all his experience and intelligence to move forward. Each level has its own characteristics. No level is the same as the other, all have their own design. The game was tested on the Windows operating system, but the engine used makes it possible to publish on different platforms.
 # Tools Used
